@@ -1,0 +1,29 @@
+body {
+    background-color: #A67B5B;
+    margin: 0;
+}
+
+img {
+    width: 650px;
+    height: 670px;
+    position: fixed; 
+    bottom: 0px;
+    left: 55%;
+}
+
+.content {
+    position: absolute;
+    top: 40%;
+    left: 10%;
+    color: #ffffff;
+}
+
+.content h2 {
+    font-family: 'ClashDisplay-Regular';
+    font-size: 25px;
+}
+
+.content h1 {
+    font-family: 'ClashDisplay-Semibold';
+    font-size: 50px;
+}

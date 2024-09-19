@@ -1,0 +1,17 @@
+body {
+    background-color: #A67B5B;
+    margin: 0;
+}
+
+#box{
+    border: 1px solid rgba(0, 0, 0, 0.1);
+    background-color: #6F4E37;
+    border-radius: 4px;
+    position: absolute;
+    top:25%;
+}
+
+h2{
+    text-align:center;
+    color:#fff;
+}

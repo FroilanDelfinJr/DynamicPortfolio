@@ -1,0 +1,54 @@
+body {
+    background-color: #A67B5B;
+    margin: 0;
+}
+
+.container h1 {
+    padding-top: 90px;
+    padding-bottom: 30px;
+    font-family: 'ClashDisplay-Medium';
+    font-size: 40px;
+    color: white;
+}
+
+.container > p {
+    font-family: 'Tanker-Regular';
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    margin: 0px;
+}
+
+.container > p > .title{
+    padding-top: 10px;
+}
+
+.date{
+    padding-bottom: 40px;
+}
+
+
+
+/**
+body {
+    background-color: #A67B5B;
+    margin: 0;
+}
+
+.container h1 {
+    padding-top: 90px;
+    padding-bottom: 30px;
+    font-family: 'ClashDisplay-Medium';
+    font-size: 40px;
+    color: white;
+}
+
+.container p {
+    font-family: 'Tanker-Regular';
+    font-size: 20px;
+    text-align: center;
+    color: white;
+    padding-top: 10px;
+    padding-bottom: 20px;
+}
+*/

@@ -1,0 +1,50 @@
+.navbar {
+    height: 70px;
+    background-color: #6F4E37;
+}
+
+.navbar-header {
+    float: left;
+    height: 50px;
+}
+
+.navbar-brand {
+    line-height: 70px;
+    padding: 0 15px 0 65px;
+    font-family: 'Tanker-Regular';
+    font-size: 30px;
+    color: #ffffff;
+}
+
+.navbar-brand:hover {
+    color: #ffffff;
+}
+
+.navbar-nav {
+    float: right;
+    margin: 0;
+    padding: 0;
+}
+
+.navbar-nav > li > a {
+    line-height: 70px; 
+    padding-top: 0; 
+    padding-bottom: 0;
+    font-family: 'Tanker-Regular';
+    font-size: 20px;
+    color: #ffffff;
+}
+
+.navbar-nav > li > a:hover {
+    color: black;
+    background-color: transparent;
+}
+
+.navbar-nav > li > a > span{
+    line-height: 67px;
+    padding-right: 65px;
+}
+
+.navbar-nav > li {
+    margin-left: 15px;
+}
